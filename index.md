@@ -1,4 +1,4 @@
-# Hello World
+# Gabriel Apodaca's Portfolio
 
 This is my home page! My name is Gabriel Apodaca and I am a student at Cal State Fullerton and my major
 is Computer Science.
